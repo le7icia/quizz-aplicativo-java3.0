@@ -8,7 +8,7 @@
 }
 
 body{
-    background: rgb(90, 0, 187);
+    background: rgb(255,20,147);
 }
 
 ::selection{
@@ -24,8 +24,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0,250,154), 
+                0 6px 20px 0 rgba(0,255,255);
 }
 
 .info_box.activeInfo,
@@ -132,7 +132,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
+    box-shadow: 0px 3px 5px 1px rgba(135,206,250);
 }
 
 .quiz_box header .title{
