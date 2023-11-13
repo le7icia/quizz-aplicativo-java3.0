@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: " Qual país foi o vencendor da ultima copa do Mundo?",
+    answer: "Argentina",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "México",
+      "França",
+      "Argentina",
+      "Rússia"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual a capital do Brasil?",
+    answer: "Brasilia",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Rio De Janeiro",
+      "Brasilia",
+      "São Paulo",
+      "Curitiba"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual o nome do presidente do Brasil?",
+    answer: " Luís Inácio Lula Da Silva",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Padre Kelmon",
+      "simone tebeth",
+      "Jair Bolsonaro",
+      " Luís Inácio Lula Da Silva"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Qual o nome que se da ao pé de manga?",
+    answer: "magueira",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "maguezal",
+      "magueiro",
+      "mangada",
+      "mangueira"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Qual o feminino de camelo?",
+    answer: "Camela",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "leoa",
+      "jacaroa",
+      "camela",
+      "cavala"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
